@@ -45,7 +45,7 @@ Framer Motion + GSAP
 Lucide Icons / Heroicons
 Vercel Analytics + Speed Insights
 
-🚀 快速启动
+##🚀 快速启动
 
 git clone https://github.com/sky-earth-onlyme/myself.git
 cd sky-earth-onlyme
@@ -54,15 +54,15 @@ pnpm dev
 
 打开 http://localhost:3000 即可看到你的技术栈在发光 ✨
 
-📱 移动端体验拉满
+##📱 移动端体验拉满
 
 横向滑动带强制吸附（Snap）
 卡片宽度自适应，永远居中不贴边
 支持手势快速滑动 + 惯性回弹
 
-🌙 暗黑模式展示
+##🌙 暗黑模式展示
 暗黑模式
-🤝 贡献代码
+##🤝 贡献代码
 Star 就是最好的鼓励！
 欢迎 PR，随便加新卡片、新动画、新特效，我全都要！
 
@@ -70,7 +70,7 @@ git checkout -b feat/你的绝妙点子
 git commit -m "feat: 让卡片再飞一次"
 git push origin feat/你的绝妙点子
 
-⭐ 给个 Star 吧老铁！
+##⭐ 给个 Star 吧老铁！
 如果你觉得这个项目还算有点东西，点个 Star 就是对作者最大的支持！
 （Star 数就是我的生产力，谢谢你让我变得更强 💪）
 
